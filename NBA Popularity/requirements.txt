@@ -15,5 +15,5 @@ requests==2.22.0
 beautifulsoup4==4.8.0
 pymongo==3.8.0
 jsonify==0.5
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 gunicorn==19.7.1
